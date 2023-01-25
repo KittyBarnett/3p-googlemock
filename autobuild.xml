@@ -34,9 +34,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>fedc8d63856f534b6098102e059dc548</string>
+              <string>cae490999f05151e3a048b00d64237bb</string>
               <key>url</key>
-              <string>https://automated-builds-secondlife-com.s3.amazonaws.com/ct2/87776/805857/boost-1.72-darwin64-563847.tar.bz2</string>
+              <string>https://automated-builds-secondlife-com.s3.amazonaws.com/ct2/109513/952781/boost-1.72-darwin64-577704.tar.bz2</string>
             </map>
             <key>name</key>
             <string>darwin64</string>
